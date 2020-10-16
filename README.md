@@ -1,0 +1,2 @@
+# Data-structures
+Structures de données, les projets sur les listes Simple et doublement chainées, les Piles, les files et les arbres en language C. Projet listes : CRÉATION D'UNE APPLICATION DES LISTES CHAINÉES SUR LES NOMBRES COMPLEXES. Projet Piles : IMPLÉMENTATION D'UNE PILE PAR UNE LISTE DE JOUEURS. Projet Files : IMPLÉMENTATION D'UNE FILE PAR UNE GESTION D'UNE CAISSED D'UN SUPERMARCHÉ. Projet Arbres : CRÉATION D'UNE APPLICATION DES ARBRES BINAIRES SUR DES SALARIÉS.
